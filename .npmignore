@@ -12,5 +12,5 @@ config.gypi
 CVS
 npm-debug.log
 src
-tsconfig.jsons
+tsconfig.json
 .github

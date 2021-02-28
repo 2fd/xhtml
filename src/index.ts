@@ -3,7 +3,8 @@ import { createInterface } from 'readline'
 import yargs from 'yargs'
 import $ from 'cherio'
 import log from './log'
-import pkg from '../package.json'
+
+const pkg = require('../package.json')
 
 let data = ""
 const cli = yargs(process.argv.slice(2))
