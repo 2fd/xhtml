@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "jest",
-    "build": "tsc -p ."
+    "build": "tsc -p .",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
