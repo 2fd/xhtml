@@ -1,5 +1,5 @@
 {
-  "name": "xhtml",
+  "name": "xhtml-cli",
   "version": "0.0.0-development",
   "description": "filter and sanitization for html",
   "main": "dist/index.js",

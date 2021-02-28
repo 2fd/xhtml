@@ -5,7 +5,7 @@ HTML filter and sanitization cli tool
 ## Install
 
 ```bash
-  npm install -g xhtml
+  npm install -g xhtml-cli
 ```
 
 ## Usage
